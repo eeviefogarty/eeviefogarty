@@ -18,6 +18,7 @@
             I'm currently studying Computer Science as a subject for the Irish leaving certificate, i have also worked on many projects such as Kythi.com & Jet.pics.  
         </p>
     </section>
+    <br />
     <section>
         <h1 align="center" style="font-size:1.5em;"> 📝 Contact me! </h1>
         <p style="font-size:1.5em;"> 
